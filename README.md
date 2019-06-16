@@ -1,6 +1,6 @@
 # Amazon_sagemaker
 
-Udacity reference
+From Udacity reference
 https://github.com/udacity/sagemaker-deployment
 If you look at the deployment Gitub repository, inside of the Mini-Projects folder is a notebook called IMDB Sentiment Analysis - XGBoost (Batch Transform).ipynb. Inside of the notebook are some tasks for you to complete.
 
